@@ -9,7 +9,8 @@
 NAME	=	my_archive
 
 SRC	=	main.c		\
-		my_archive.c
+		my_archive.c	\
+		print.c
 
 OBJ	=	$(SRC:.c=.o)
 
