@@ -5,8 +5,6 @@
 ## Login   <tom.gardelle@epitech.eu>
 ## 
 ## Started on  Sat Mar  4 11:45:02 2017 Mystik
-## Last update Sat Mar  4 11:53:30 2017 Mystik
-##
 
 NAME	=	my_archive
 
